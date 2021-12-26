@@ -20,6 +20,7 @@ I'm Arpit Chauhan, Senior Software Engineer at Reflektive, where I focus on buil
 <img src="https://avatars.githubusercontent.com/u/210414" height=30 width=30></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height=30 width=30>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" height=30>
+<img src="https://api.segment.io/v1/pixel/track?data=eyJ3cml0ZUtleSI6IkZZdUdzMmR3NWpiREc2VkZZejd1dmZRYjh4S0E0ZXF2IiwidXNlcklkIjoidXNlciIsImV2ZW50IjoiUGFnZSBWaXNpdGVkIn0=">
 
 Here are a few of my projects:
 
