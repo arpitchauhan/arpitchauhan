@@ -27,6 +27,8 @@ Here are a few of my projects:
 1. Implementation of cryptographic protocols like digital signature with primitives like AES, RSA and Diffie-Hellman key exchange ([repo](https://github.com/arpitchauhan/cryptographic-protocols-arduino-and-PC))
 2. A skeleton for buidling a Facebook Messenger bot ([repo](https://github.com/arpitchauhan/messenger-bot))
 3. A benchmark to compare CSV processing performance between Ruby and Go (using standard libraries) [repo](https://github.com/arpitchauhan/ruby-golang-performance-comparison)
-4. A tool to keep track of updates to Netgear routers' firmware ([repo](https://github.com/arpitchauhan/netgear-update-checker)) 
+4. A tool to keep track of updates to Netgear routers' firmware ([repo](https://github.com/arpitchauhan/netgear-update-checker))
+
+Besides, I have contributed bug fixes to [Sinatra](https://github.com/sinatra/sinatra/pull/1431) and [Spree](https://github.com/spree/spree/pull/7526).
 
 ⚡ Fun fact: I love Isaac Asimov's novels, especially the Foundation series.
