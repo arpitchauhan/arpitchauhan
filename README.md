@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there, I'm Arpit Chauhan, Senior Software Engineer at Reflektive, where I focus on building scalable backends/APIs in Ruby and Python. I find Go to be fascinating and make sure to use it for my hobby projects!
+I'm Arpit Chauhan, Senior Software Engineer at Reflektive, where I focus on building scalable backends/APIs in Ruby and Python. I find Go to be fascinating and make sure to use it for my hobby projects!
 
 <img src="https://avatars.githubusercontent.com/u/210414" height=30 width=30></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height=30 width=30>
