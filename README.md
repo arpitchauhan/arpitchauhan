@@ -28,3 +28,4 @@ Here are a few of my projects:
 3. A benchmark to compare CSV processing performance between Ruby and Go (using standard libraries) [repo](https://github.com/arpitchauhan/ruby-golang-performance-comparison)
 4. A tool to keep track of updates to Netgear routers' firmware ([repo](https://github.com/arpitchauhan/netgear-update-checker)) 
 
+⚡ Fun fact: I love Isaac Asimov's novels, especially the Foundation series.
