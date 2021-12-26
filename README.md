@@ -29,3 +29,13 @@ Here are a few of my projects:
 4. A tool to keep track of updates to Netgear routers' firmware ([repo](https://github.com/arpitchauhan/netgear-update-checker)) 
 
 ⚡ Fun fact: I love Isaac Asimov's novels, especially the Foundation series.
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-JS4WJ7TNYC"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-JS4WJ7TNYC');
+</script>
