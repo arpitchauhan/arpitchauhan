@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Arpit Chauhan, Senior Ruby Developer at Solaris Digital Assets!
+Hey, I'm Arpit Chauhan. I'm a Senior Ruby Developer at ([Solaris]https://www.solarisgroup.com/en/)!
 
 <img src="https://avatars.githubusercontent.com/u/210414" height=30 width=30></img>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" height=30 width=30>
