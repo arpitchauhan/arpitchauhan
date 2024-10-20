@@ -25,7 +25,7 @@ Hey, I'm Arpit Chauhan. I'm a Senior Ruby Developer at [Solaris](https://www.sol
 Here are a few of my projects:
 
 1. Implementation of cryptographic protocols like digital signature with primitives like AES, RSA and Diffie-Hellman key exchange ([repo](https://github.com/arpitchauhan/cryptographic-protocols-arduino-and-PC)).
-2. A skeleton for building a Facebook Messenger bot ([repo](https://github.com/arpitchauhan/messenger-bot)).
+2. A simple database that stores data in append-only files and uses in-memory hash table for fast access ([repo](https://github.com/arpitchauhan/simple-database)).
 3. A benchmark to compare CSV processing performance between Ruby and Go (using standard libraries) [repo](https://github.com/arpitchauhan/ruby-golang-performance-comparison).
 4. A tool to keep track of updates to Netgear routers' firmware ([repo](https://github.com/arpitchauhan/netgear-update-checker)).
 
